@@ -39,7 +39,3 @@ This project implements a simple load balancer in Golang that distributes incomi
 **Health Check Endpoint:**
 
 The mock backend server exposes a `/healthcheck` endpoint. You can customize this endpoint to perform specific health checks for your application requirements. 
-
-**Disclaimer:**
-
-This is a simple example of a load balancer and may not be suitable for production environments with high-performance requirements. Consider your specific needs and adapt the code accordingly.
